@@ -1,0 +1,140 @@
+
+body{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.green{
+    border: 2px solid green;
+}
+
+.banner{
+    height: 500px;
+    background: url(./banner.jpg) center center no-repeat;
+    padding: 20px;
+      
+}
+
+.about-sign-in{
+    height: 80px;
+    width: 100%;
+    text-align: right;
+}
+
+.about, .sign-in{
+    text-decoration: none;
+    margin-top: 20px;
+    display: inline-block;
+    padding:7px 25px;
+    text-transform: uppercase;
+    color: green;
+}
+
+.sign-in{
+    margin-right: 40px;
+    margin-left: 20px;
+
+    border: 2px solid green;
+    border-radius: 20px;
+}
+.logo{
+    background: url(./hapoERP.png) center center no-repeat;
+    height: 100px;
+    margin-top: 40px;
+}
+.text{
+    text-align: center;
+    margin-top: 30px;
+}
+.btn-start-now{
+    text-align: center;
+    margin-top: 40px;
+}
+
+button{
+    text-transform: uppercase;
+    text-align: center;
+    padding: 10px 20px;
+    border: 2px solid black;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+.left, .center, .right{
+    width: 33%;
+    display: inline-block;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.content-center.span{
+    display: block;
+}
+.content-center img{
+    width: 30px;
+    height: 30px;
+}
+
+.today-learn{
+    height: 500px;
+    padding-top: 100px;
+    margin-bottom: 100px;
+    text-align:center;
+    -moz-box-shadow:0 5px 5px rgba(182, 182, 182, 0.75);
+-webkit-box-shadow: 0 5px 5px rgba(182, 182, 182, 0.75);
+box-shadow: 0 5px 5px rgba(182, 182, 182, 0.75);
+}
+
+.img-hapoERP,.text-today-learn{
+    display: inline-block;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.text-today-learn{
+    width: 500px;
+    text-align: left;
+    vertical-align: top;
+}
+
+.text-today-learn span{
+    display: block;
+}
+
+.text-today-learn img{
+    width: 50px;    
+}
+.text-today-learn .sp1, img{
+    display: inline;
+}
+
+.img-text{
+    margin-bottom: 20px;
+    padding-bottom: 0;
+}
+.img-text .sp1{
+    font-size: 52px;
+    margin-left: 10px;
+    vertical-align: baseline;
+}
+
+.img-hapoERP img{
+    width: 550px;
+}
+
+.sp2{
+    font-style: italic;
+    margin-bottom: 20px;
+}
+.sp3{
+    font-size: 12px;
+    line-height: 20px;
+}
+
+.today-learn button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
